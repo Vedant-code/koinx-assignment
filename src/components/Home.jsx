@@ -2,7 +2,7 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 const Home = () => {
-  const samples = ["bitcoin"];
+  const samples = ["bitcoin", "ethereum"];
   return (
     <div className="h-screen flex justify-center mt-[100px]">
       <div>
